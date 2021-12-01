@@ -1,0 +1,4 @@
+﻿  ВВП14.2.cpp
+C:\Users\Kras.nyi\Desktop\ВВП\ВВП14\ВВП14.2\ВВП14.2\ВВП14.2.cpp(11,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kras.nyi\Desktop\ВВП\ВВП14\ВВП14.2\ВВП14.2\ВВП14.2.cpp(11,32): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  ВВП14.2.vcxproj -> C:\Users\Kras.nyi\Desktop\ВВП\ВВП14\ВВП14.2\Debug\ВВП14.2.exe
